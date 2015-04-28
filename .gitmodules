@@ -28,9 +28,6 @@
 [submodule "bundle/ruby"]
 	path = bundle/ruby
 	url = http://github.com/vim-ruby/vim-ruby.git
-[submodule "bundle/matchit"]
-	path = bundle/matchit
-	url = https://github.com/eshock/vim-matchit.git
 [submodule "bundle/tabular"]
 	path = bundle/tabular
 	url = http://github.com/godlygeek/tabular.git
@@ -97,3 +94,6 @@
 [submodule "bundle/tracker"]
 	path = bundle/tracker
 	url = https://github.com/BirdseyeSoftware/tracker.vim
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = http://github.com/vim-scripts/matchit.zip.git
